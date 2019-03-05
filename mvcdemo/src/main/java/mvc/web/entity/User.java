@@ -15,4 +15,8 @@ public class User {
         this.password = password;
         this.address = address;
     }
+
+    public voi test(){
+        System.out.println("branch");
+    }
 }
